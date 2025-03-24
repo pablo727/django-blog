@@ -18,5 +18,3 @@ https://pablo003.pythonanywhere.com
 - SQLite
 - Bootstrap 5
 ---
-
-## License
