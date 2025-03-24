@@ -7,6 +7,12 @@
 [![Live Demo](https://img.shields.io/badge/Live_Demo-Active-success?logo=azure-pipelines)](https://pablo003.pythonanywhere.com)
 [![Website](https://img.shields.io/badge/Visit_Now-FF7139?logo=google-chrome&logoColor=white)](https://pablo003.pythonanywhere.com)
 
+## 🖼️ Live Preview
+<div align="center">
+  <img src="https://github.com/pablo727/django-blog/blob/main/screenshot/blog-screenshot.png?raw=true" width="800" alt="Django Blog Interface">
+  <p><em>Production-ready Django blog with user authentication and responsive design</em></p>
+</div>
+
 ## ✨ Features 
 | Feature | Badge |
 |---------|-------|
