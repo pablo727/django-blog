@@ -4,6 +4,7 @@ A fully deployed Django blog with user authentication, Bootstrap 5 styling, and 
 ---
 ## Live Demo
 https://pablo003.pythonanywhere.com
+---
 
 ## Features
 - User authentication
