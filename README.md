@@ -20,7 +20,7 @@
 
 ## 🤝 Contributions
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen?logo=github)](CONTRIBUTING.md)  
-See our [Contribution Guidelines](CONTRIBUTING.md) for details.
+See [Contribution Guidelines](CONTRIBUTING.md) for details.
 
 ## 📜 License 
 [![MIT License](https://img.shields.io/badge/License-MIT-red?logo=open-source-initiative)](https://opensource.org/licenses/MIT)  
