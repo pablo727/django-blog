@@ -1,0 +1,19 @@
+{% extends 'blogs/base.html' %}
+
+{% block page_header %}
+  <div class="p-5 mb-4 bg-light rounded-3">
+    <div class="container-fluid py-5">
+      <h1 class="display-4">Welcome to my Coding Blog!</h1>
+      <p class="lead">Join me on my journey as I explore Python, Django,
+         and more. Learn about my projects and insights as I share my
+          experiences in coding!</p>
+      <a class="btn btn-primary btn-lg" href="{% url 'accounts:register' %}">
+        Register &raquo;</a>
+    </div>
+  </div>
+{% endblock page_header %}
+
+{% block content %}
+  <p>Stay tuned for exciting updates and blog posts on programming,
+     coding practices, and all things tech!</p>
+{% endblock content %}
