@@ -1,24 +1,22 @@
-.env
-venv_linux/
-db.sqlite3
-# Python/Django basics
-__pycache__/
-*.py[cod]
-*$py.class
-
 # Environments
 .env
 .venv/
 venv/
+venv_linux/
 env/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
 
 # Database
 db.sqlite3
 db.sqlite3-journal
 
-# IDE/Editor
+# IDE
 .idea/
 .vscode/
 
-# Local settings
+# Local configs
 local_settings.py
