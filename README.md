@@ -9,7 +9,7 @@
 
 ## 🖼️ Live Preview
 <div align="center">
-  <img src="https://github.com/pablo727/django-blog/blob/main/screenshot/blog-screenshot.png?raw=true" width="800" alt="Django Blog Interface">
+  <img src="https://github.com/pablo727/django-blog/blob/main/screenshot/screenshot.png?raw=true" width="800" alt="Django Blog Interface">
   <p><em>Production-ready Django blog with user authentication and responsive design</em></p>
 </div>
 
