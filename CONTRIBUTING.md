@@ -33,5 +33,3 @@ git push origin fix/your-feature
 - **Mobile-optimized** layout
 - **Auto-updating** issue/PR badges
 - **Copy-paste friendly** commands
-
-Want me to add a version history table or code examples? 😊
